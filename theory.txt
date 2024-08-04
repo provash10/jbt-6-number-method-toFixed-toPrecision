@@ -1,0 +1,8 @@
+javascript bangla tutorial 6  number method  toFixed  toPrecision
+==================================================================
+<script src="index.js"defer></script>
+================================================
+
+toString=>>>  to take string
+parseInt=>>> integer number onvert ar jonno
+parsefloat=>>> Decimal number convert er jonno
